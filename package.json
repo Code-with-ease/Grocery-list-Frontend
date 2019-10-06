@@ -11,6 +11,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
+  "proxy":"http://smart-node-api.herokuapp.com",
   "dependencies": {
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
