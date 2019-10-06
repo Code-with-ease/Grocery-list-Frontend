@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Smart-Reacr-List/static/css/main.4ed9bdda.chunk.css",
-    "main.js": "/Smart-Reacr-List/static/js/main.644fe193.chunk.js",
-    "main.js.map": "/Smart-Reacr-List/static/js/main.644fe193.chunk.js.map",
-    "runtime-main.js": "/Smart-Reacr-List/static/js/runtime-main.fb3523ce.js",
-    "runtime-main.js.map": "/Smart-Reacr-List/static/js/runtime-main.fb3523ce.js.map",
-    "static/js/2.2886ec69.chunk.js": "/Smart-Reacr-List/static/js/2.2886ec69.chunk.js",
-    "static/js/2.2886ec69.chunk.js.map": "/Smart-Reacr-List/static/js/2.2886ec69.chunk.js.map",
-    "index.html": "/Smart-Reacr-List/index.html",
-    "precache-manifest.2f192ffebac8c2ac839fea91a11585b1.js": "/Smart-Reacr-List/precache-manifest.2f192ffebac8c2ac839fea91a11585b1.js",
-    "service-worker.js": "/Smart-Reacr-List/service-worker.js",
-    "static/css/main.4ed9bdda.chunk.css.map": "/Smart-Reacr-List/static/css/main.4ed9bdda.chunk.css.map",
-    "static/media/logo.svg": "/Smart-Reacr-List/static/media/logo.5d5d9eef.svg"
+    "main.css": "/Smart-List-React/static/css/main.4ed9bdda.chunk.css",
+    "main.js": "/Smart-List-React/static/js/main.bf73cc83.chunk.js",
+    "main.js.map": "/Smart-List-React/static/js/main.bf73cc83.chunk.js.map",
+    "runtime-main.js": "/Smart-List-React/static/js/runtime-main.d9aa55fa.js",
+    "runtime-main.js.map": "/Smart-List-React/static/js/runtime-main.d9aa55fa.js.map",
+    "static/js/2.2886ec69.chunk.js": "/Smart-List-React/static/js/2.2886ec69.chunk.js",
+    "static/js/2.2886ec69.chunk.js.map": "/Smart-List-React/static/js/2.2886ec69.chunk.js.map",
+    "index.html": "/Smart-List-React/index.html",
+    "precache-manifest.6bf307de10721002d7a720a0aa9892de.js": "/Smart-List-React/precache-manifest.6bf307de10721002d7a720a0aa9892de.js",
+    "service-worker.js": "/Smart-List-React/service-worker.js",
+    "static/css/main.4ed9bdda.chunk.css.map": "/Smart-List-React/static/css/main.4ed9bdda.chunk.css.map",
+    "static/media/logo.svg": "/Smart-List-React/static/media/logo.5d5d9eef.svg"
   }
 }
