@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Smart-List-React/static/css/main.095910f2.chunk.css",
+    "main.css": "/Smart-List-React/static/css/main.5eb01e87.chunk.css",
     "main.js": "/Smart-List-React/static/js/main.763a8a0e.chunk.js",
     "main.js.map": "/Smart-List-React/static/js/main.763a8a0e.chunk.js.map",
     "runtime-main.js": "/Smart-List-React/static/js/runtime-main.d9aa55fa.js",
@@ -8,9 +8,9 @@
     "static/js/2.d4476aee.chunk.js": "/Smart-List-React/static/js/2.d4476aee.chunk.js",
     "static/js/2.d4476aee.chunk.js.map": "/Smart-List-React/static/js/2.d4476aee.chunk.js.map",
     "index.html": "/Smart-List-React/index.html",
-    "precache-manifest.8cf294c644a57b05b32ef4c2b62954ac.js": "/Smart-List-React/precache-manifest.8cf294c644a57b05b32ef4c2b62954ac.js",
+    "precache-manifest.389d3e0a9da94a6e39cc6a14f3ce245e.js": "/Smart-List-React/precache-manifest.389d3e0a9da94a6e39cc6a14f3ce245e.js",
     "service-worker.js": "/Smart-List-React/service-worker.js",
-    "static/css/main.095910f2.chunk.css.map": "/Smart-List-React/static/css/main.095910f2.chunk.css.map",
+    "static/css/main.5eb01e87.chunk.css.map": "/Smart-List-React/static/css/main.5eb01e87.chunk.css.map",
     "static/media/logo.svg": "/Smart-List-React/static/media/logo.5d5d9eef.svg"
   }
 }
