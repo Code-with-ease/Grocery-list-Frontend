@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "85cecfe984410bb70e0bd07a8fd4e896",
+    "revision": "208082db79f2fcea59ac93365d77cef1",
     "url": "/Smart-List-React/index.html"
   },
   {
-    "revision": "92357124c30f13546736",
+    "revision": "bfd622c4d00309bb3076",
     "url": "/Smart-List-React/static/css/main.4ed9bdda.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Smart-List-React/static/js/2.81676242.chunk.js"
   },
   {
-    "revision": "92357124c30f13546736",
-    "url": "/Smart-List-React/static/js/main.d482697b.chunk.js"
+    "revision": "bfd622c4d00309bb3076",
+    "url": "/Smart-List-React/static/js/main.2c756e5a.chunk.js"
   },
   {
     "revision": "7a07dad2dfcceea49d0d",
