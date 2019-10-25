@@ -26,6 +26,34 @@ li{
   float:left;
 }
 
+.btn-circle {
+  width: 30px;
+  height: 30px;
+  padding: 6px 0px;
+  border-radius: 15px;
+  text-align: center;
+  font-size: 12px;
+  line-height: 1.42857;
+}
+
+#button1{
+  float:left;
+  width:45vw;
+}
+
+#button2{
+  float: right;
+  width:45vw;
+}
+
+.button{
+  display: block;
+  position: relative;
+  left: 50%;
+  transform: translateY(-50%);
+}
+
+
 @keyframes App-logo-spin {
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
