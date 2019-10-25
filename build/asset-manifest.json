@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Smart-List-React/static/css/main.4ed9bdda.chunk.css",
-    "main.js": "/Smart-List-React/static/js/main.8d57c1d4.chunk.js",
-    "main.js.map": "/Smart-List-React/static/js/main.8d57c1d4.chunk.js.map",
-    "runtime-main.js": "/Smart-List-React/static/js/runtime-main.d9aa55fa.js",
-    "runtime-main.js.map": "/Smart-List-React/static/js/runtime-main.d9aa55fa.js.map",
-    "static/js/2.64cda19c.chunk.js": "/Smart-List-React/static/js/2.64cda19c.chunk.js",
-    "static/js/2.64cda19c.chunk.js.map": "/Smart-List-React/static/js/2.64cda19c.chunk.js.map",
-    "index.html": "/Smart-List-React/index.html",
-    "precache-manifest.8d5466fac3dfd571682cdf632cb46f0c.js": "/Smart-List-React/precache-manifest.8d5466fac3dfd571682cdf632cb46f0c.js",
-    "service-worker.js": "/Smart-List-React/service-worker.js",
-    "static/css/main.4ed9bdda.chunk.css.map": "/Smart-List-React/static/css/main.4ed9bdda.chunk.css.map",
-    "static/media/logo.svg": "/Smart-List-React/static/media/logo.5d5d9eef.svg"
+    "main.css": "/Grocery-list-Frontend/static/css/main.4ed9bdda.chunk.css",
+    "main.js": "/Grocery-list-Frontend/static/js/main.2fce3266.chunk.js",
+    "main.js.map": "/Grocery-list-Frontend/static/js/main.2fce3266.chunk.js.map",
+    "runtime-main.js": "/Grocery-list-Frontend/static/js/runtime-main.1d512a16.js",
+    "runtime-main.js.map": "/Grocery-list-Frontend/static/js/runtime-main.1d512a16.js.map",
+    "static/js/2.64cda19c.chunk.js": "/Grocery-list-Frontend/static/js/2.64cda19c.chunk.js",
+    "static/js/2.64cda19c.chunk.js.map": "/Grocery-list-Frontend/static/js/2.64cda19c.chunk.js.map",
+    "index.html": "/Grocery-list-Frontend/index.html",
+    "precache-manifest.1f3ba919ac8cf74512575f9c9dd846b9.js": "/Grocery-list-Frontend/precache-manifest.1f3ba919ac8cf74512575f9c9dd846b9.js",
+    "service-worker.js": "/Grocery-list-Frontend/service-worker.js",
+    "static/css/main.4ed9bdda.chunk.css.map": "/Grocery-list-Frontend/static/css/main.4ed9bdda.chunk.css.map",
+    "static/media/logo.svg": "/Grocery-list-Frontend/static/media/logo.5d5d9eef.svg"
   }
 }

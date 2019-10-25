@@ -2,7 +2,7 @@
   "name": "client",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://ayushnagar123.github.io/Smart-List-React",
+  "homepage": "http://code-with-ease.github.io/Grocery-list-Frontend",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
@@ -30,6 +30,7 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^2.1.1"
+    "gh-pages": "^2.1.1",
+    "webpack-cli": "^3.3.9"
   }
 }
