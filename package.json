@@ -2,7 +2,7 @@
   "name": "client",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://code-with-ease.github.io/Grocery-list-Frontend",
+  "homepage": "http://ayushnagar123.github.io/Smart-List-React",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
@@ -12,9 +12,8 @@
     "deploy": "gh-pages -d build"
   },
   "dependencies": {
-    "bootstrap": "^4.3.1",
+    "axios": "^0.19.0",
     "react": "^16.9.0",
-    "react-bootstrap": "^1.0.0-beta.14",
     "react-dom": "^16.9.0",
     "react-router-dom": "^5.1.2",
     "react-scripts": "^3.1.2"
@@ -32,7 +31,6 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^2.1.1",
-    "webpack-cli": "^3.3.9"
+    "gh-pages": "^2.1.1"
   }
 }

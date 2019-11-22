@@ -1,21 +1,15 @@
 import React, { Component } from 'react';
-import 'bootstrap/dist/css/bootstrap.min.css';
-import logo from './logo.svg';
 import './App.css';
-import Customers from './components/customers';
-import Add from './components/addcustomer';
-import Navbar from './components/nav';
-import Card from './components/Card';
+import Structure from './components/Structure/Structure';
+
 class App extends Component {
+  componentWillUpdate(nextProps, nextState) {
+    localStorage.setItem("name","ayush");
+  }
   render() {
     return (
       <div className="App">
-        <header className="App-header">
-          <Navbar/>
-        </header>
-        <Card/>
-        <Add/>
-        <Customers />
+        <Structure />
       </div>
     );
   }
